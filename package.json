@@ -160,7 +160,7 @@
     "react-router-dom": "^6.30.0",
     "react-select": "4.3.1",
     "react-textarea-autosize": "8.5.7",
-    "react-virtualized": "^9.22.6",
+    "react-virtualized": "^10.0.0",
     "reflux": "0.4.1",
     "rehype-expressive-code": "^0.41.2",
     "remark-frontmatter": "^5.0.0",
